@@ -1,6 +1,6 @@
 # MicroFinance-Bank
 
-# A Microfinance bank database management 
+# A Microfinance bank database management System
 
 # Built using Tkinter GUI
 
